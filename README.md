@@ -10,7 +10,7 @@ I love creating visually appealing websites and exploring new technologies to up
 <img src="https://media.giphy.com/media/I1IvY2g8OqTRzKpPCK/giphy.gif" height="30" style="vertical-align: top;"> Based in Irvine, California <br>
 <img src="https://media.giphy.com/media/BAS4Iv3np9e2vzpaQ8/giphy.gif" height="30"> Take a look at my portfolio [here](http://portfolio-est-kim.vercel.app/) <br>
 <img src="https://media.giphy.com/media/8reNVWMgmuV2T2f2EZ/giphy.gif" height="30"> View my latest project, FaceBark [here](https://gitlab.com/facebark/facebark) <br>
-<img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" height="30"> I'm currently learning about AWS, Data Structures, Algorithms, and more React! <br>
+<img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" height="30"> I'm currently an Software Developer Intern at RadicalX <br>
 <img src="https://media.giphy.com/media/XxbFJm0sFrK6baMblf/giphy.gif" height="30"> You can reach me at [estherkimdev@gmail.com](mailto:estherkimdev@gmail.com)
 
 ```javascript
