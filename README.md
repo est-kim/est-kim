@@ -17,7 +17,7 @@ I love creating visually appealing websites and exploring new technologies to up
 const esther = {
   pronouns: "she" | "her",
   languages: [Javascript, Python],
-  frontEnd: [React, HTML, CSS, Bootstrap, Chakra-UI],
+  frontEnd: [React, HTML, CSS, Bootstrap, Chakra UI, Material UI],
   backEnd: [Django, FastAPI, PostgreSQL, MongoDB, RabbitMQ],
   devOps: "Docker",
   architecture: ["microservices", "monoliths", "domain-driven design", "message queues", "polling"],
