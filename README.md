@@ -7,7 +7,7 @@
 I love creating visually appealing websites and exploring new technologies to upgrade my skillset and enhance my abilities. My constant pursuit of self-improvement fuels my drive to consistently strive for excellence as I aim to be 1% better every day.
 
 <img src="https://media.giphy.com/media/I1IvY2g8OqTRzKpPCK/giphy.gif" height="30" style="vertical-align: top;"> Based in Los Angeles, California <br>
-<img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" height="30"> I'm currently a Support Engineer at Smartrr! <br>
+<img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" height="30"> I'm currently a Senior Support Engineer at Smartrr! <br>
 <img src="https://media.giphy.com/media/XxbFJm0sFrK6baMblf/giphy.gif" height="30"> You can reach me at [estherkimdev@gmail.com](mailto:estherkimdev@gmail.com)
 
 ```javascript
